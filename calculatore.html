@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" placeholder="Enter your amount" class="input-box" onkeydown="keydowns(event);">
+    <button class="btn"  onclick="myFunction();"> Calculate</button>
+    <p class="changed"></p>
+    <script>
+        function keydowns(event){
+            if(event.key === 'Enter'){
+                myFunction();
+            }
+        }
+        function myFunction(){
+            const inputElement =  document.querySelector('.input-box');
+            let amount = Number(inputElement.value);
+            if(amount<50){
+                amount += 10;
+            }
+            document.querySelector('.changed').innerHTML =` ${amount}`;
+        }
+      
+    </script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="myFunction('heads')">heads</button>
+    <button onclick="myFunction('tails')">tails</button>
+    <p class="changed"></p>
+
+    <input type="text" placeholder="Enter your name " class="input-box">
+    <button class="button" onclick="getName()" onkeydown=" onkeydowns(event);"> Enter</button>
+    <p class=" chnace"></p>
+    <script>
+    function getName (){
+        const inputElement = document.querySelector('.input-box');
+        let names = inputElement.value;
+        document.querySelector('.chnace').innerHTML = ` ${names}`;
+    }
+    
+        function onkeydowns(event){
+            if(event.key === 'Enter'){
+               
+           getName();
+           
+        }
+        }
+        
+    </script>
+</body>
+</html>
+
+
+
