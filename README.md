@@ -23,7 +23,7 @@
 </p>
 
 <!-- Bio -->
-- 🔭 I’m currently working on an **Organ Donation Platform**<br>
+- 🔭 I’m currently working on an **Skills Swap Plateform**<br>
 - 🌱 I’m currently learning **Backend Development**<br>
 - 👨‍💻 Explore my projects: [basic-projects-7kon.vercel.app](https://basic-projects-7kon.vercel.app/)<br>
 - 💬 Ask me about **React, JavaScript, CSS**<br>
