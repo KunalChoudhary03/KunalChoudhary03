@@ -23,10 +23,9 @@
 </p>
 
 <!-- Bio -->
-- 🔭 I’m currently working on an **Skills Swap Plateform**<br>
-- 🌱 I’m currently learning **Backend Development**<br>
+- 🌱 I’m currently learning **DevOps**<br>
 - 👨‍💻 Explore my projects: [basic-projects-7kon.vercel.app](https://basic-projects-7kon.vercel.app/)<br>
-- 💬 Ask me about **React, JavaScript, CSS**<br>
+- 💬 Ask me about **Expressjs, JavaScript, Node**<br>
 - 📫 Reach me at **kunalchoudhary3344@gmail.com**<br>
 
 <!-- Connect with me -->
