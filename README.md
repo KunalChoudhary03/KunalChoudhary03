@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Kunal+Choudhary;Frontend+Developer+on+a+Full-Stack+Journey;&center=true&width=500&height=50" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Kunal+Choudhary;Full-Stack+Devloper;&center=true&width=500&height=50" alt="Typing SVG"/>
 </p>
 
 <!-- Sub Banner -->
