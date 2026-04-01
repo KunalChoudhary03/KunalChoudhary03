@@ -10,7 +10,7 @@
 
 <!-- Heading -->
 <h1 align="center" style="font-size: 40px;">Hi 👋, I'm Kunal Choudhary</h1>
-<h3 align="center" style="font-size: 24px;">🚀 Frontend Developer on a Full-Stack Journey</h3>
+<h3 align="center" style="font-size: 24px;">Full-Stack Devloper</h3>
 
 <!-- Coding GIF -->
 <p align="right">
